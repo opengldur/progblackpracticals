@@ -1,0 +1,31 @@
+* {font-family: Lexend Deca;}
+* {background-color: bisque;}
+
+.back{
+    font-family: "Honk";
+   font-size: 100px;
+   background-size: 500px;
+   font-weight: bold;
+   text-align: center;
+   padding-top: 0px;
+   margin-top: 0px;
+   border-bottom: 10px solid royalblue;
+}
+ul {
+   border-top: 2px solid black;
+    margin-top : 0px;
+    font-size: 20px;
+}
+
+li {
+    margin-top : 0px;
+    font-size: 20px;
+}
+
+table, th {
+   border: 2px solid black;
+}
+
+td {
+   border: 1px dotted black;
+}
